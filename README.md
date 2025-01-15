@@ -1,7 +1,7 @@
 ![Banner](./assets/images/background.jpg)
 
-### Hello there👋
+### hello👋 world 🌏 im a NZ based DevOps Developer 👨‍💻 & Cloud Engineer ☁️ 
 
-DevOps Developer 👨‍💻 & Cloud Engineer ☁️ -> [LinkedIn](https://www.linkedin.com/in/mattduguid/)
+delivering technology agnostic solutions through code first principles, leveraging automation, devops, ci/cd pipelines, infrastructure as code, containers and cloud technologies
 
-</div>
+[LinkedIn](https://www.linkedin.com/in/mattduguid/)
