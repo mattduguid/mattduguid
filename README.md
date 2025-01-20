@@ -1,3 +1,5 @@
+[![Pipeline Main](https://github.com/mattduguid/pipeline-tag-build-release/actions/workflows/pipeline.yml/badge.svg)](https://github.com/mattduguid/pipeline-tag-build-release/actions/workflows/pipeline.yml)
+
 ![Banner](./assets/images/background.jpg)
 
 ### hello👋 world 🌏 im a NZ based DevOps Developer 👨‍💻 & Cloud Engineer ☁️ 
